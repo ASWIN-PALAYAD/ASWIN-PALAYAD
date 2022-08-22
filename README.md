@@ -5,7 +5,7 @@ Full Stack { MER(A)N } Web Developer
 ------------------------
 
 
-I'm a Self Learning Tech enthusiast. Exploring the latest technology in Mobile App Development. After completing my graduation. I'm currently working on my first project in Flutter.
+I'm a Self Learning Tech enthusiast. Exploring the latest technology in Full stack web App Development. After completing my graduation. I'm currently working on my first project in React.
 
 * 🌍  I'm based in Kerala
 * 🖥️  See my portfolio at 
