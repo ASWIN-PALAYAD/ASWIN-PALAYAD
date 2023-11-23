@@ -1,7 +1,7 @@
 Hi 👋 My name is ASWIN . S
 ==============================
 
-Full Stack { MER(A)N } Web Developer
+Full Stack { MERN } Web Developer
 ------------------------
 
 
